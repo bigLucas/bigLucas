@@ -5,6 +5,7 @@ Here are some ideas to get you started:
 I’m currently working on: 
 - REST APIs with Node.js, Typescript, Serverless framework, TypeORM and hosted on AWS.
 - AWS serverless architecture with step-functions, lambda-layers, SQS, cron-jobs, cognito user pool and RDS Aurora Postgres.
+- Mentoring [project](https://github.com/bigLucas/basic_express_api)
 
 I’m currently learning:
 - REST APIs with spring boot.
