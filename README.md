@@ -9,6 +9,7 @@ I’m currently working on:
 
 I’m currently learning:
 - REST APIs with spring boot.
+- Serverless development with Go and AWS SAM.
 
 I’m looking to collaborate on:
 - Serverless plugins.
@@ -19,6 +20,3 @@ Ask me about:
 How to reach me:
 - Twiter: @its_me__lucas
 - Linkedin: https://www.linkedin.com/in/lucas-ferreira-dos-santos/
-
-Fun fact:
-- I love watching sports and I recently moved from the automation industry to the computer software industry.
